@@ -1,0 +1,27 @@
+{
+  "name": "clairvoyance_backend",
+  "version": "1.0.0",
+  "description": "An API backend for the Clairvoyance app",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmkovachi/Clairvoyance_backend.git"
+  },
+  "keywords": [
+    "Node.js",
+    "API",
+    "Google-maps"
+  ],
+  "author": "John Michael Kovachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmkovachi/Clairvoyance_backend/issues"
+  },
+  "homepage": "https://github.com/jmkovachi/Clairvoyance_backend#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
